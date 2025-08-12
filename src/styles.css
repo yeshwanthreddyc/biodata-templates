@@ -1,0 +1,24 @@
+.app-container {
+  width: 80%;
+  margin: auto;
+  font-family: Arial, sans-serif;
+}
+
+.form-container, .selector-container, .preview-container {
+  margin: 20px 0;
+}
+
+input {
+  display: block;
+  margin: 5px 0;
+  padding: 8px;
+  width: 100%;
+}
+
+.download-btn {
+  background-color: green;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  cursor: pointer;
+}
